@@ -1,0 +1,35 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "",
+    "confidence": 5
+  },
+  "SDG[0]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "clearOwnership": {
+    "answer": false,
+    "comment": "",
+    "confidence": 2
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": 4
+  },
+  "nonPII": {
+    "answer": false,
+    "comment": "This is one meaningful comment with lots of text ah yes",
+    "confidence": 4
+  },
+  "user": "lacabra",
+  "timestamp": 1620072103,
+  "timeTaken": 102
+}
