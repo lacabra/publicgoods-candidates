@@ -1,0 +1,42 @@
+{
+  "name": "My Project",
+  "aliases": [
+    ""
+  ],
+  "description": "My Description",
+  "website": "https://www.example.com",
+  "license": [
+    {
+      "spdx": "Apache-2.0",
+      "licenseURL": "https://example.com"
+    }
+  ],
+  "SDGs": [
+    {
+      "SDGNumber": 1,
+      "evidenceText": "description1",
+      "evidenceURL": "http://example.com/1"
+    },
+    {
+      "SDGNumber": 2,
+      "evidenceText": "description2"
+    },
+    {
+      "SDGNumber": 3,
+      "evidenceURL": "http://example.com/3"
+    }
+  ],
+  "sectors": [],
+  "type": [
+    "data"
+  ],
+  "repositoryURL": "",
+  "organizations": [
+    {
+      "name": "ORg",
+      "website": "https://example.com",
+      "org_type": "owner"
+    }
+  ],
+  "stage": "DPG"
+}
